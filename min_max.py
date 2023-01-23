@@ -2,7 +2,7 @@
 # GitHub username: aubreyfloyd2
 # Date: 1/23/2023
 # Description: Asks user for a number of integers and then collects that many integers from
-#              the user and outputs the minimun and maximun of the integers
+#              the user and outputs the minimun and maximun of the integers.
 input_int = 0
 print("How many integers would you like to enter?")
 total_int = int(input())
